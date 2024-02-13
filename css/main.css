@@ -17,4 +17,5 @@ h1 {
     font-size: 22px;
     font-weight: bold;
     line-height: 100px;
+    transition: smooth .1s ease-out;
 }
