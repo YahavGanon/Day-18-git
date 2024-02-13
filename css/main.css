@@ -12,6 +12,9 @@ h1 {
     height: 100px;
     border-radius: 50%;
     background-color: aquamarine;
+    margin: auto;
     text-align: center;
-    margin:auto;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 100px;
 }
