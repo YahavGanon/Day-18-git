@@ -30,7 +30,6 @@ const onBallClick2 = () => {
         elBall.innerText = 100
         elBall.style.backgroundColor = 'yellow'
     }
-
 }
 
 
